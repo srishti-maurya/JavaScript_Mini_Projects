@@ -18,6 +18,5 @@
 
 ## 5. Sidebar
 
-![navbar!](/images/sidebar.png)
-
+![sidebar!](/images/sidebar.png)
 
