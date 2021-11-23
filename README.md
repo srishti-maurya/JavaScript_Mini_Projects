@@ -20,6 +20,4 @@
 
 ![navbar!](/images/sidebar.png)
 
-## 6. Modal
 
-![navbar!](/images/modal.png)
