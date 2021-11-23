@@ -31,3 +31,7 @@
 ## 8. Menu
 
 ![sidebar!](/images/menu.png)
+
+## 9. Video
+
+![sidebar!](/images/video.png)
