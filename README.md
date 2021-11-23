@@ -23,3 +23,7 @@
 ## 6. Modal
 
 ![modal!](https://github.com/srishti-maurya/JavaScript_Mini_Projects/blob/master/images/modal.png)
+
+## 7. Questions
+
+![sidebar!](/images/questions.png)
