@@ -27,3 +27,7 @@
 ## 7. Questions
 
 ![sidebar!](/images/questions.png)
+
+## 8. Menu
+
+![sidebar!](/images/menu.png)
