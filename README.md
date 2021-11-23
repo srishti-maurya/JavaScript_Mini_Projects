@@ -20,3 +20,6 @@
 
 ![sidebar!](/images/sidebar.png)
 
+## 6. Modal
+
+![modal!](https://github.com/srishti-maurya/JavaScript_Mini_Projects/blob/master/images/modal.png)
