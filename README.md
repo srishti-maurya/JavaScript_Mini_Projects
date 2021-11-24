@@ -39,3 +39,7 @@
 ## 10. Scroll
 
 ![scroll!](/images/scroll.png)
+
+## 11. Tabs
+
+![tabs!](/images/tabs.png)
