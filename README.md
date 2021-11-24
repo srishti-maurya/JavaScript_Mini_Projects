@@ -26,12 +26,16 @@
 
 ## 7. Questions
 
-![sidebar!](/images/questions.png)
+![questions!](/images/questions.png)
 
 ## 8. Menu
 
-![sidebar!](/images/menu.png)
+![menu!](/images/menu.png)
 
 ## 9. Video
 
-![sidebar!](/images/video.png)
+![video!](/images/video.png)
+
+## 10. Scroll
+
+![scroll!](/images/scroll.png)
