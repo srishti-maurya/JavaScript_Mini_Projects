@@ -50,4 +50,4 @@
 
 ## 13. Para generator
 
-![tabs!](/images/tabs.png)
+![lorem!](/images/lorem.png)
