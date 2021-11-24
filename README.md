@@ -55,3 +55,7 @@
 ## 14. Grocery bud
 
 ![Grocery bud!](/images/todo.png)
+
+## 15. Slider
+
+![slider!](/images/slider.png)
